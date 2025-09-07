@@ -1,7 +1,7 @@
 <p align="center">
   <!-- DOI badge (replace once Zenodo mints for this repo) -->
-  <a href="https://doi.org/10.5281/zenodo.XXXXXXX">
-    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg" alt="DOI">
+  <a href="https://doi.org/10.5281/zenodo.17069925">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17069925.svg" alt="DOI">
   </a>
   <!-- Link to the EUT-Lab Zenodo Community -->
   <a href="https://zenodo.org/communities/eut-lab">
